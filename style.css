@@ -1,0 +1,26 @@
+h1{
+    color:yellow;
+}
+.p1{
+    color:aqua;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    /*padding: 5px 10px 15px 20px; top right bottom left;*/
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    margin: 5px;
+}
+.div1#id1{
+    background-color: pink;
+}
+
+.div.active{
+    background-color: cyan;
+}
+
+.active#someid{
+    color: red;
+}
